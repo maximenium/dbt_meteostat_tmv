@@ -11,3 +11,10 @@ sources:
       - name: flights
       - name: airports
       - name: regions
+  - name: northwind
+    schema: northwind
+    tables:
+      - name: orders
+      - name: order_details
+      - name: products
+      - name: categories
